@@ -74,11 +74,10 @@ git clone https://github.com/your-username/AI-Temperature-Control-System.git
 ## License
 _ This project is licensed under the MIT License.
 
----
+
 
 ## Author
 **George Glor**  
 Email: georgeglor40@hotmail.com
 
----
 
