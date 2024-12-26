@@ -44,9 +44,11 @@ This repository contains an AI-driven system for maintaining indoor comfort whil
 ---
 
 ## Getting Started
+
 ### Clone the repository:
 ```bash
 git clone https://github.com/your-username/AI-Temperature-Control-System.git
+
 
 ## Install required packages:
 - pip install -r requirements.txt
